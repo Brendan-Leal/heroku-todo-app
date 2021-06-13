@@ -5,3 +5,4 @@ lib/users.sql
 schema.sql
 seed-data.sql
 todos-final.zip
+.env
