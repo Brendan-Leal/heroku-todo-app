@@ -7,9 +7,9 @@
     "lib": "lib"
   },
   "scripts": {
+      "heroku-postbuild": "npm install --production",
     "start": "npx nodemon todos.js",
-    "debug": "nodemon --inspect todos.js",
-    "heroku-postbuild": "npm install --production"
+    "debug": "nodemon --inspect todos.js"
   },
   "author": "",
   "license": "ISC",
@@ -29,7 +29,7 @@
     "pug": "^2.0.4"
   },
   "engines": {
-      "node": "14.17.0",
-      "npm": "7.9.0"
+    "node": "14.17.0",
+    "npm": "7.9.0"
   }
 }
