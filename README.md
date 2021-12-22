@@ -1,1 +1,2 @@
 # Heroku-todo-app
+This app was made during Launch Schools Core Curriculum. This is another iteration on the previous todo app. We implemented a database using postgresSQL applying out knowledge that we learned about SQL, schema, and generally working with a database. We also walked through implementing a rudimentary authentication system into the app. Additionally we learned about Heroku, the difference between a developer environment and a production environment, and how to host the app on Heroku. 
